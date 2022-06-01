@@ -62,7 +62,10 @@ p {
 }
 .line-3 {
   height: 1px;
-  width: 80px;
+  width: 60px;
   background: #f67c92;
   display: inline-block;
+}
+.line {
+  line-height: 8px;
 }
