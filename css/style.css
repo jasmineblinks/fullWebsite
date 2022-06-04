@@ -119,4 +119,10 @@ nav ul li a {
 }
 .about-text h2 {
   margin: 50px 0 10px;
+  font-size: 28px;
+  font-style: italic;
+}
+.about-text h3 {
+  font-size: 20px;
+  color: #797979;
 }
